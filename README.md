@@ -29,7 +29,7 @@ You can find solutions to each category in their respective folders. Here is a b
 
 | Category                 | Number of Problems |
 | -----------------------  | ------------------ |
-| Introductory Problems    | 09                 |
+| Introductory Problems    | 15                 |
 | Sorting and Searching    | 00                 |
 | Dynamic Programming      | 18                 |
 | Graph Algorithms         | 00                 |
